@@ -1,0 +1,201 @@
+@media (max-width: 400px) {
+  .welcomeText {
+    left: 3%;
+  }
+
+  .exceptionalIcon {
+    transform: scale(2.5);
+    padding: 10%;
+  }
+
+  .platforms {
+    transform: scale(0.15);
+    width: 5%;
+    height: 0;
+  }
+
+  .platforms2 {
+    transform: scale(0.2);
+    width: 0;
+    height: 0;
+  }
+}
+
+@media (min-width: 400px) and (max-width: 600px) {
+  .welcomeText {
+    left: 3%;
+  }
+
+  .exceptionalIcon {
+    transform: scale(2);
+
+    padding: 2.5%;
+  }
+
+  .platforms {
+    transform: scale(0.2);
+    width: 5%;
+    height: 0;
+  }
+
+  .platforms2 {
+    transform: scale(0.2);
+    width: 0;
+    height: 0;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 768px) {
+  .exceptionalIcon {
+    transform: scale(2);
+    padding: 2%;
+  }
+
+  .platforms {
+    transform: scale(0.2);
+    width: 0;
+    height: 0;
+  }
+
+  .platforms2 {
+    transform: scale(0.3);
+    width: 0;
+    top: 3vh;
+    padding: 3vh;
+    height: 0;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1104px) {
+  .exceptionalIcon {
+    transform: scale(1);
+
+    padding: 1%;
+  }
+
+  .ProfileBlock {
+    max-width: 600px;
+  }
+
+  .platforms {
+    transform: scale(0.3);
+    width: 0;
+    height: 0;
+  }
+
+  .platforms2 {
+    transform: scale(0.3);
+    top: 3vh;
+    padding: 3vh;
+    width: 0;
+    height: 0;
+  }
+}
+
+@media (min-width: 1104px) and (max-width: 1200px) {
+  .exceptionalIcon {
+    transform: scale(1);
+
+    padding: 1%;
+  }
+
+  .ProfileBlock {
+    max-width: 600px;
+  }
+
+  .platforms {
+    transform: scale(0.3);
+    width: 0;
+    height: 0;
+  }
+
+  .platforms2 {
+    transform: scale(0.3);
+    width: 0;
+    height: 0;
+  }
+}
+
+@media (min-width: 1201px) and (max-width: 1280px) {
+  .exceptionalIcon {
+    transform: scale(1);
+
+    padding: 1%;
+  }
+
+  .ProfileBlock {
+    max-width: 600px;
+  }
+
+  .platforms {
+    transform: scale(0.3);
+    width: 0;
+    height: 0;
+  }
+
+  .platforms2 {
+    transform: scale(0.5);
+    width: 0;
+    height: 0;
+    top: 6vh;
+    padding: 6vh;
+  }
+
+  .footer {
+    min-width: 600px;
+  }
+}
+
+@media (min-width: 1281px) and (max-width: 1980px) {
+  .exceptionalIcon {
+    transform: scale(1);
+
+    padding: 1%;
+  }
+
+  .ProfileBlock {
+    max-width: 600px;
+  }
+
+  .platforms {
+    transform: scale(0.3);
+    width: 0;
+    height: 0;
+  }
+
+  .platforms2 {
+    transform: scale(0.5);
+    width: 0;
+    height: 0;
+    top: 6vh;
+    padding: 6vh;
+  }
+
+  .footer {
+    min-width: 600px;
+  }
+}
+
+@media (min-width: 1981px) {
+  .exceptionalIcon {
+    transform: scale(1);
+
+    padding: 1%;
+  }
+
+  .ProfileBlock {
+    max-width: 600px;
+  }
+
+  .platforms {
+    transform: scale(0.3);
+    width: 0;
+    height: 0;
+  }
+
+  .platforms2 {
+    transform: scale(0.5);
+    width: 0;
+    height: 0;
+  }
+}
