@@ -197,5 +197,7 @@
     transform: scale(0.5);
     width: 0;
     height: 0;
+    padding: 6vh;
+    height: 0;
   }
 }
