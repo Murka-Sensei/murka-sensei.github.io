@@ -15,9 +15,11 @@
   }
 
   .platforms2 {
-    transform: scale(0.2);
+    transform: scale(0.25);
     width: 0;
     height: 0;
+    top: 3vh;
+    padding: 4vh;
   }
 }
 
@@ -39,9 +41,11 @@
   }
 
   .platforms2 {
-    transform: scale(0.2);
+    transform: scale(0.3);
     width: 0;
     height: 0;
+    top: 3vh;
+    padding: 3vh;
   }
 }
 
@@ -60,8 +64,8 @@
   .platforms2 {
     transform: scale(0.3);
     width: 0;
-    top: 3vh;
-    padding: 3vh;
+    top: 4vh;
+    padding: 5vh;
     height: 0;
   }
 }
@@ -85,8 +89,8 @@
 
   .platforms2 {
     transform: scale(0.3);
-    top: 3vh;
-    padding: 3vh;
+    top: 4vh;
+    padding: 4vh;
     width: 0;
     height: 0;
   }
@@ -110,9 +114,11 @@
   }
 
   .platforms2 {
-    transform: scale(0.3);
+    transform: scale(0.4);
     width: 0;
     height: 0;
+    top: 4vh;
+    padding: 4vh;
   }
 }
 
@@ -164,7 +170,7 @@
   }
 
   .platforms2 {
-    transform: scale(0.5);
+    transform: scale(0.45);
     width: 0;
     height: 0;
     top: 6vh;
@@ -194,10 +200,10 @@
   }
 
   .platforms2 {
-    transform: scale(0.5);
+    transform: scale(0.5) translateY(10vh);
     width: 0;
     height: 0;
-    padding: 6vh;
-    height: 0;
+    padding: 7vh;
+    height: 0px;
   }
 }
