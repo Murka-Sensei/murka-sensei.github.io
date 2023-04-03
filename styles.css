@@ -251,8 +251,8 @@ a {
 
 .footer h2 {
   font-weight: 600;
-  font-size: clamp(16px, 2vh, 30px);
-  margin: 2vh 0 0 0;
+  font-size: clamp(18px, 2vh, 30px);
+  margin: 3vh 0 0 0;
 }
 
 .footer h3 {
