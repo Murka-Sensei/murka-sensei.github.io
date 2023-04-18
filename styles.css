@@ -86,13 +86,13 @@ body {
   font-family: "Mulish", sans-serif;
   /* font-size: calc(10px + 2vw); */
   padding: 1vh 5vw;
-  font-size: clamp(12px, 1.5vw, 28px);
+  font-size: clamp(12px, 1.7vw, 28px);
 }
 .textAboutUs1 p {
   font-family: "Mulish", sans-serif;
   font-size: calc(10px + 2vw);
   padding: 1vh 5vw;
-  font-size: clamp(15px, 1.5vw, 28px);
+  font-size: clamp(12px, 1.7vw, 28px);
 }
 
 .textAboutUs h1 {
