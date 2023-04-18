@@ -18,7 +18,7 @@
     transform: scale(0.25);
     width: 0;
     height: 0;
-    top: 3vh;
+    top: 6vh;
     padding: 4vh;
   }
 }
@@ -43,7 +43,7 @@
   .platforms2 {
     transform: scale(0.3);
     width: 0;
-    height: 0;
+    height: 50px;
     top: 3vh;
     padding: 3vh;
   }
@@ -140,7 +140,7 @@
   }
 
   .platforms2 {
-    transform: scale(0.5);
+    transform: scale(0.35);
     width: 0;
     height: 0;
     top: 6vh;
